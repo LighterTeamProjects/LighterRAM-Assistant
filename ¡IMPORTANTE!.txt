@@ -1,0 +1,18 @@
+Desarrollado por: LighterTeam
+
+¡¡Informacion Sobre El Proyecto!!
+--------------------------------------
+Este proyecto esta desarrollado por LighterTeam
+Su concepto es ser un Asistente/Administrador enfocado en la RAM de tu PC
+Teniendo opciones para ver cuanta memoria se esta usando en este momento y para finalizar tareas del dispositivo
+-------------------------------------- 
+¿Como Abrir La App?
+-------------------------------------
+Para Abrir esta aplicación debes iniciar el archivo BAT que esta en la misma carpeta que este texto
+Otra alternativa es abrir la app desde la carpeta "Data" y luego abriendo en archivo EXE nombrado "LighterRamAssitant.exe"
+--------------------------------------
+Cualquier duda, contactanos por: 
+lighterteamconsultas@proton.me
+
+
+
